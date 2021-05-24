@@ -6,15 +6,18 @@ To survive this competition, it is important for the developers to study the inf
 User information contains details related to ratings and reviews accorded to the app by the users who have already used it. 
 This can provide quantitative as well as qualitative data about the users’ perception regarding the app. 
 
-Objectives  
+**Objectives  **
 
 The contribution of this thesis is 
-(1) To determine important app features affecting app’s success. This is performed using Exploratory data analysis, a visualization technique used to highlight the vital aspects of the analyzed data.
-(2) Final step is to predict number of downloads of the app using various prediction models such as Linear Regression, K-Nearest Neighbor, Decision Tree, Random Forest, Naïve Bayes, and Artificial Neural network (ANN).
-(3) Analysis and visualising through Tableau
+**(1)** To determine important app features affecting app’s success. This is performed using Exploratory data analysis, a visualization technique used to highlight the vital aspects of the analyzed data.
+**(2)** Final step is to predict number of downloads of the app using various prediction models such as Linear Regression, K-Nearest Neighbor, Decision Tree, Random Forest, Naïve Bayes, and Artificial Neural network (ANN).
+**(3)** Analysis and visualising through Tableau
 This prediction of number of downloads can facilitate developers to allocate resources more efficiently.
 
- App-Application name
+
+**Dataset Description**
+
+App-Application name
 Category-Category the app belongs to
 Rating-Overall user rating of the app (as when scraped)
 Reviews-Number of user reviews for the app (as when scraped)
@@ -29,9 +32,9 @@ Android Ver-Min required Android version (as when scraped)
 Type-Paid or Free
 
 
-Results    
+**Results **   
 
-Model                  Accuracy
+**Model  **                **Accuracy**
 Logistic Regression     93%
 Decision Tree           93%
 KNN                     92%
