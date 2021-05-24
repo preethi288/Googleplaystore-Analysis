@@ -34,15 +34,16 @@ Type-Paid or Free
 
 **Results **   
 
-**Model  **                **Accuracy**
-Logistic Regression     93%
-Decision Tree           93%
-KNN                     92%
-Naive Bayes             87%
-Random Forest           85%
-Linear Regression       43%
-Artificial Neural 
-Network                 43%
+
+|           Model           | Accuracy |
+|:-------------------------:|:--------:|
+|    Logistic Regression    |    93%   |
+|       Decision Tree       |    93%   |
+|            KNN            |    92%   |
+|        Naive Bayes        |    87%   |
+|       Random Forest       |    85%   |
+|     Linear Regression     |    43%   |
+| Artificial Neural Networs |    43%   |
 
 
 
