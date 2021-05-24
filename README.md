@@ -6,7 +6,7 @@ To survive this competition, it is important for the developers to study the inf
 User information contains details related to ratings and reviews accorded to the app by the users who have already used it. 
 This can provide quantitative as well as qualitative data about the users’ perception regarding the app. 
 
-**Objectives  **
+**Objectives**
 
 The contribution of this thesis is 
 **(1)** To determine important app features affecting app’s success. This is performed using Exploratory data analysis, a visualization technique used to highlight the vital aspects of the analyzed data.
@@ -23,7 +23,7 @@ Rating-Overall user rating of the app (as when scraped)
 Reviews-Number of user reviews for the app (as when scraped)
 Size-Size of the app (as when scraped)
 Installs-Number of user downloads/installs for the app (as when scraped)
-Price-Price of the app (as when scraped)
+Price-Price of the app (as when scraped),
 Content Rating -Age group the app is targeted at - Children / Mature 21+ / Adult
 Genres-An app can belong to multiple genres (apart from its main category). For eg, a musical family game will belong to Music, Game, Family genres.
 Last Updated-Date when the app was last updated on Play Store (as when scraped)
@@ -32,7 +32,7 @@ Android Ver-Min required Android version (as when scraped)
 Type-Paid or Free
 
 
-**Results **   
+**Results**   
 
 
 |           Model           | Accuracy |
